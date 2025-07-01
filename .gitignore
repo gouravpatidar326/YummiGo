@@ -1,0 +1,22 @@
+# Node.js & React (frontend/admin)
+node_modules/
+build/
+dist/
+.env
+.env.local
+
+# Java Spring Boot (backend)
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+src/main/resources/application.properties
+
+# IDEs
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
